@@ -1,0 +1,6 @@
+[tool.black]
+line-lenght = 79
+exclude = '''
+    srs/
+    tests/
+'''
