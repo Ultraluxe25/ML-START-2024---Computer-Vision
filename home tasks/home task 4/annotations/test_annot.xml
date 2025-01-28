@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1139716</id>
+      <name>Test (Aircrafts and ships)</name>
+      <size>20</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-01-14 08:48:05.398114+00:00</created>
+      <updated>2025-01-15 08:07:23.122251+00:00</updated>
+      <subset>Test</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>19</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1950431</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/1947960</url>
+        </segment>
+        <segment>
+          <id>1950432</id>
+          <start>1</start>
+          <stop>1</stop>
+          <url>https://app.cvat.ai/api/jobs/1947961</url>
+        </segment>
+        <segment>
+          <id>1950433</id>
+          <start>2</start>
+          <stop>2</stop>
+          <url>https://app.cvat.ai/api/jobs/1947962</url>
+        </segment>
+        <segment>
+          <id>1950434</id>
+          <start>3</start>
+          <stop>3</stop>
+          <url>https://app.cvat.ai/api/jobs/1947963</url>
+        </segment>
+        <segment>
+          <id>1950435</id>
+          <start>4</start>
+          <stop>4</stop>
+          <url>https://app.cvat.ai/api/jobs/1947964</url>
+        </segment>
+        <segment>
+          <id>1950436</id>
+          <start>5</start>
+          <stop>5</stop>
+          <url>https://app.cvat.ai/api/jobs/1947965</url>
+        </segment>
+        <segment>
+          <id>1950437</id>
+          <start>6</start>
+          <stop>6</stop>
+          <url>https://app.cvat.ai/api/jobs/1947966</url>
+        </segment>
+        <segment>
+          <id>1950438</id>
+          <start>7</start>
+          <stop>7</stop>
+          <url>https://app.cvat.ai/api/jobs/1947967</url>
+        </segment>
+        <segment>
+          <id>1950439</id>
+          <start>8</start>
+          <stop>8</stop>
+          <url>https://app.cvat.ai/api/jobs/1947968</url>
+        </segment>
+        <segment>
+          <id>1950440</id>
+          <start>9</start>
+          <stop>9</stop>
+          <url>https://app.cvat.ai/api/jobs/1947969</url>
+        </segment>
+        <segment>
+          <id>1950441</id>
+          <start>10</start>
+          <stop>10</stop>
+          <url>https://app.cvat.ai/api/jobs/1947970</url>
+        </segment>
+        <segment>
+          <id>1950442</id>
+          <start>11</start>
+          <stop>11</stop>
+          <url>https://app.cvat.ai/api/jobs/1947971</url>
+        </segment>
+        <segment>
+          <id>1950443</id>
+          <start>12</start>
+          <stop>12</stop>
+          <url>https://app.cvat.ai/api/jobs/1947972</url>
+        </segment>
+        <segment>
+          <id>1950444</id>
+          <start>13</start>
+          <stop>13</stop>
+          <url>https://app.cvat.ai/api/jobs/1947973</url>
+        </segment>
+        <segment>
+          <id>1950445</id>
+          <start>14</start>
+          <stop>14</stop>
+          <url>https://app.cvat.ai/api/jobs/1947974</url>
+        </segment>
+        <segment>
+          <id>1950446</id>
+          <start>15</start>
+          <stop>15</stop>
+          <url>https://app.cvat.ai/api/jobs/1947975</url>
+        </segment>
+        <segment>
+          <id>1950447</id>
+          <start>16</start>
+          <stop>16</stop>
+          <url>https://app.cvat.ai/api/jobs/1947976</url>
+        </segment>
+        <segment>
+          <id>1950448</id>
+          <start>17</start>
+          <stop>17</stop>
+          <url>https://app.cvat.ai/api/jobs/1947977</url>
+        </segment>
+        <segment>
+          <id>1950449</id>
+          <start>18</start>
+          <stop>18</stop>
+          <url>https://app.cvat.ai/api/jobs/1947978</url>
+        </segment>
+        <segment>
+          <id>1950450</id>
+          <start>19</start>
+          <stop>19</stop>
+          <url>https://app.cvat.ai/api/jobs/1947979</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ultraluxe27</username>
+        <email>ultraluxe25@mail.ru</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>aircraft</name>
+          <color>#ff355e</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>ship</name>
+          <color>#66ff66</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2025-01-27 09:58:49.544934+00:00</dumped>
+  </meta>
+  <image id="0" name="bd4fba16-ec59-4163-a896-db2274b86a8b.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="13.54" ytl="365.80" xbr="182.60" ybr="539.36" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="242.11" ytl="351.20" xbr="402.60" ybr="533.55" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="558.78" ytl="497.46" xbr="694.05" ybr="635.54" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1859.49" ytl="835.29" xbr="2026.60" ybr="995.70" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2071.48" ytl="1115.21" xbr="2167.43" ybr="1217.41" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1951.35" ytl="1099.20" xbr="2046.52" ybr="1187.37" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2230.84" ytl="1495.25" xbr="2396.53" ybr="1652.52" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2013.67" ytl="1481.21" xbr="2155.10" ybr="1632.39" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1890.96" ytl="1497.31" xbr="1987.39" ybr="1603.49" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1419.41" ytl="1564.78" xbr="1555.92" ybr="1711.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1364.29" ytl="1739.60" xbr="1441.00" ybr="1820.57" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1168.70" ytl="1757.60" xbr="1333.60" ybr="1914.20" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="866.30" ytl="1734.20" xbr="1033.80" ybr="1892.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="842.60" ytl="1450.34" xbr="978.85" ybr="1559.94" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1303.60" ytl="861.80" xbr="1479.00" ybr="1008.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1491.42" ytl="711.28" xbr="1664.10" ybr="857.53" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1529.19" ytl="487.10" xbr="1705.20" ybr="637.83" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1640.90" ytl="306.03" xbr="1781.28" ybr="427.26" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="290.10" ytl="577.27" xbr="465.12" ybr="740.15" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="274.26" ytl="1022.80" xbr="446.80" ybr="1187.25" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="753.70" ytl="2093.80" xbr="830.70" ybr="2187.40" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="858.61" ytl="2127.64" xbr="989.50" ybr="2274.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1183.60" ytl="2147.95" xbr="1274.50" ybr="2250.50" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1331.55" ytl="2234.63" xbr="1425.81" ybr="2316.70" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1405.60" ytl="2344.30" xbr="1502.03" ybr="2441.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1515.24" ytl="2435.30" xbr="1579.00" ybr="2512.89" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1632.40" ytl="2413.60" xbr="1728.00" ybr="2505.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1754.80" ytl="2429.43" xbr="1844.90" ybr="2532.30" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1875.90" ytl="2436.72" xbr="1971.24" ybr="2520.80" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2115.89" ytl="2449.19" xbr="2195.20" ybr="2543.73" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2226.18" ytl="2447.40" xbr="2320.71" ybr="2549.83" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2268.47" ytl="2194.56" xbr="2348.76" ybr="2281.02" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1991.20" ytl="2010.60" xbr="2104.20" ybr="2100.70" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1870.60" ytl="1848.10" xbr="1966.16" ybr="1938.79" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="569.20" ytl="1229.30" xbr="706.30" ybr="1337.80" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="651.08" ytl="1053.06" xbr="810.03" ybr="1197.41" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="729.66" ytl="870.60" xbr="877.48" ybr="1008.50" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="809.00" ytl="683.20" xbr="968.48" ybr="825.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="921.57" ytl="518.01" xbr="1093.81" ybr="659.36" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="boat522.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="268.04" ytl="117.08" xbr="276.34" ybr="130.46" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="327.05" ytl="103.89" xbr="339.65" ybr="121.69" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="384.94" ytl="115.12" xbr="392.44" ybr="128.32" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="339.80" ytl="56.99" xbr="348.40" ybr="71.79" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="243.65" ytl="68.05" xbr="252.45" ybr="79.65" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="276.70" ytl="32.78" xbr="290.32" ybr="47.39" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="238.51" ytl="20.72" xbr="246.01" ybr="30.22" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="340.94" ytl="4.83" xbr="350.54" ybr="19.14" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="boat683.png" width="394" height="400">
+    <box label="ship" source="manual" occluded="0" xtl="131.15" ytl="162.79" xbr="165.11" ybr="194.23" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="boat685.png" width="452" height="448">
+    <box label="ship" source="manual" occluded="0" xtl="280.06" ytl="131.36" xbr="340.91" ybr="181.57" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="211.33" ytl="319.63" xbr="300.43" ybr="389.01" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="boat687.png" width="384" height="350">
+    <box label="ship" source="manual" occluded="0" xtl="102.54" ytl="261.67" xbr="172.25" ybr="301.34" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="boat688.png" width="422" height="364">
+    <box label="ship" source="manual" occluded="0" xtl="187.78" ytl="145.34" xbr="226.51" ybr="231.05" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="boat689.png" width="328" height="380">
+    <box label="ship" source="manual" occluded="0" xtl="228.46" ytl="146.01" xbr="257.74" ybr="215.92" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="boat690.png" width="400" height="243">
+    <box label="ship" source="manual" occluded="0" xtl="205.29" ytl="131.36" xbr="209.19" ybr="135.36" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="152.69" ytl="140.65" xbr="161.93" ybr="152.30" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="boat691.png" width="400" height="366">
+    <box label="ship" source="manual" occluded="0" xtl="129.22" ytl="107.84" xbr="199.33" ybr="242.58" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="boat692.png" width="490" height="446">
+    <box label="ship" source="manual" occluded="0" xtl="170.91" ytl="125.89" xbr="248.75" ybr="189.42" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="boat693.png" width="460" height="482">
+    <box label="ship" source="manual" occluded="0" xtl="200.54" ytl="175.99" xbr="265.48" ybr="299.85" z_order="0">
+    </box>
+    <box label="ship" source="manual" occluded="0" xtl="427.96" ytl="375.17" xbr="455.32" ybr="410.43" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="cbd51501-ed0f-411c-b472-df4357cca40c.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="290.77" ytl="2021.25" xbr="393.56" ybr="2144.82" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="408.99" ytl="2066.13" xbr="478.33" ybr="2150.36" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="483.38" ytl="2030.99" xbr="606.94" ybr="2164.85" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="616.63" ytl="2063.80" xbr="690.58" ybr="2155.08" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="726.33" ytl="2055.13" xbr="796.48" ybr="2137.47" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="824.50" ytl="2075.40" xbr="893.41" ybr="2160.89" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="906.45" ytl="2057.77" xbr="978.00" ybr="2139.03" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="984.77" ytl="2070.41" xbr="1055.65" ybr="2147.61" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="295.56" ytl="1653.17" xbr="351.77" ybr="1699.67" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="235.30" ytl="1599.45" xbr="297.60" ybr="1652.72" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="192.30" ytl="1548.74" xbr="261.52" ybr="1590.50" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="159.57" ytl="1474.91" xbr="234.65" ybr="1520.84" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="948.48" ytl="1910.49" xbr="1024.32" ybr="1956.99" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="934.71" ytl="1851.58" xbr="1006.49" ybr="1895.14" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="975.49" ytl="1792.79" xbr="1035.45" ybr="1833.68" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="883.13" ytl="1674.39" xbr="933.16" ybr="1735.71" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="808.81" ytl="1663.21" xbr="863.55" ybr="1723.41" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="740.91" ytl="1667.73" xbr="795.08" ybr="1730.93" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="682.69" ytl="1669.31" xbr="734.26" ybr="1714.61" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="631.96" ytl="1606.93" xbr="681.81" ybr="1664.30" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="574.94" ytl="1586.75" xbr="627.45" ybr="1628.13" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="519.60" ytl="1542.39" xbr="580.27" ybr="1586.75" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="344.17" ytl="1200.40" xbr="414.89" ybr="1241.97" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="321.55" ytl="1134.50" xbr="385.50" ybr="1187.95" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="306.42" ytl="1066.15" xbr="370.37" ybr="1121.83" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="331.25" ytl="1005.77" xbr="396.33" ybr="1057.87" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="311.40" ytl="933.81" xbr="383.10" ybr="982.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="137.90" ytl="891.80" xbr="210.58" ybr="937.85" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="355.31" ytl="881.01" xbr="430.48" ybr="927.28" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="372.02" ytl="826.39" xbr="446.73" ybr="870.63" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="378.34" ytl="760.93" xbr="439.28" ybr="820.74" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="419.64" ytl="715.11" xbr="479.68" ybr="777.18" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="443.12" ytl="663.87" xbr="518.06" ybr="710.82" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="464.64" ytl="599.12" xbr="524.73" ybr="637.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="359.97" ytl="587.80" xbr="416.00" ybr="624.46" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="283.25" ytl="567.38" xbr="336.70" ybr="607.22" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="243.48" ytl="523.05" xbr="305.27" ybr="563.41" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="254.60" ytl="468.47" xbr="311.16" ybr="510.92" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="537.85" ytl="224.66" xbr="578.29" ybr="285.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="929.55" ytl="278.22" xbr="986.10" ybr="328.44" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="289.11" ytl="418.42" xbr="329.51" ybr="473.95" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="344.41" ytl="406.46" xbr="385.49" ybr="467.18" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="397.23" ytl="414.81" xbr="436.95" ybr="474.85" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="448.47" ytl="418.20" xbr="487.29" ybr="478.92" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="496.32" ytl="418.87" xbr="544.20" ybr="491.78" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="554.10" ytl="485.20" xbr="602.31" ybr="559.72" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="613.58" ytl="462.60" xbr="659.40" ybr="531.89" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="661.88" ytl="428.96" xbr="706.80" ybr="500.52" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="718.99" ytl="402.55" xbr="765.94" ybr="477.27" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="789.87" ytl="385.85" xbr="835.01" ybr="459.21" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="858.94" ytl="373.44" xbr="903.85" ybr="446.57" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="994.59" ytl="357.64" xbr="1040.19" ybr="433.03" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1063.44" ytl="346.80" xbr="1110.39" ybr="420.84" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1636.83" ytl="341.27" xbr="1698.26" ybr="415.38" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1717.16" ytl="271.57" xbr="1798.42" ybr="339.96" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1783.37" ytl="426.89" xbr="1852.71" ybr="500.57" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1864.36" ytl="423.91" xbr="1933.16" ybr="505.17" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1955.69" ytl="402.02" xbr="2049.63" ybr="509.93" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2060.47" ytl="451.27" xbr="2123.58" ybr="524.40" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2125.72" ytl="512.84" xbr="2186.21" ybr="581.03" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2189.59" ytl="579.20" xbr="2254.38" ybr="655.97" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2243.79" ytl="645.83" xbr="2308.80" ybr="712.20" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2331.59" ytl="692.42" xbr="2408.34" ybr="760.59" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2517.80" ytl="616.08" xbr="2560.00" ybr="666.19" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2301.08" ytl="793.26" xbr="2377.47" ybr="863.43" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2328.90" ytl="870.27" xbr="2405.54" ybr="940.94" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2322.49" ytl="953.50" xbr="2430.70" ybr="1057.05" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2267.91" ytl="1357.01" xbr="2346.79" ybr="1419.97" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2469.29" ytl="1578.33" xbr="2537.67" ybr="1637.18" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2422.41" ytl="1637.75" xbr="2485.11" ybr="1721.99" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2231.06" ytl="1443.23" xbr="2307.70" ybr="1507.20" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2165.44" ytl="1593.95" xbr="2224.42" ybr="1669.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2077.72" ytl="1640.38" xbr="2161.99" ybr="1744.44" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1989.43" ytl="1689.70" xbr="2054.29" ybr="1766.70" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1892.16" ytl="1688.96" xbr="1962.03" ybr="1777.94" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1800.19" ytl="1691.65" xbr="1867.07" ybr="1768.98" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1719.86" ytl="1710.46" xbr="1790.93" ybr="1801.53" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1628.79" ytl="1704.49" xbr="1694.78" ybr="1782.42" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2140.00" ytl="1918.30" xbr="2210.58" ybr="1979.77" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1738.71" ytl="1948.38" xbr="1807.09" ybr="2038.26" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1835.15" ytl="1973.46" xbr="1907.41" ybr="2043.34" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1924.73" ytl="1980.63" xbr="1991.92" ybr="2068.12" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2007.15" ytl="1998.55" xbr="2075.23" ybr="2087.53" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2070.75" ytl="2059.46" xbr="2135.25" ybr="2150.53" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2128.08" ytl="2117.09" xbr="2191.68" ybr="2199.20" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2181.83" ytl="2169.05" xbr="2259.46" ybr="2227.87" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2231.10" ytl="2235.04" xbr="2310.22" ybr="2294.76" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2284.20" ytl="2304.91" xbr="2352.92" ybr="2373.59" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2332.02" ytl="2353.88" xbr="2417.12" ybr="2424.65" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2285.60" ytl="2436.05" xbr="2368.22" ybr="2501.74" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2335.19" ytl="2522.11" xbr="2388.41" ybr="2560.00" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="eeb978ec-5945-4def-819a-4ea903b17c2d.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="988.81" ytl="415.80" xbr="1065.90" ybr="487.28" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="897.42" ytl="420.53" xbr="974.06" ybr="491.45" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="619.45" ytl="412.57" xbr="695.84" ybr="496.43" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="804.33" ytl="675.59" xbr="878.90" ybr="753.50" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="894.76" ytl="680.74" xbr="970.15" ybr="756.13" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1103.05" ytl="682.53" xbr="1171.48" ybr="766.63" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1601.49" ytl="721.10" xbr="1670.91" ybr="790.27" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1794.86" ytl="672.50" xbr="1868.26" ybr="760.09" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2105.21" ytl="672.98" xbr="2181.65" ybr="769.72" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1586.20" ytl="2499.21" xbr="1670.72" ybr="2560.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1898.50" ytl="1936.64" xbr="1984.70" ybr="2048.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2494.97" ytl="1786.40" xbr="2551.40" ybr="1854.12" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2268.90" ytl="1779.91" xbr="2322.55" ybr="1847.80" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1794.61" ytl="1762.51" xbr="1867.97" ybr="1836.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1309.13" ytl="1733.98" xbr="1396.56" ybr="1836.04" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1131.01" ytl="1738.46" xbr="1263.24" ybr="1858.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1005.29" ytl="1763.11" xbr="1081.13" ybr="1849.52" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="909.95" ytl="1762.03" xbr="987.42" ybr="1849.25" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2497.34" ytl="1439.35" xbr="2541.76" ybr="1504.90" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2432.68" ytl="1444.74" xbr="2478.73" ybr="1504.33" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2338.35" ytl="1286.57" xbr="2417.66" ybr="1374.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2262.28" ytl="1454.02" xbr="2318.03" ybr="1522.19" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2125.13" ytl="1447.25" xbr="2180.43" ybr="1516.09" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1925.22" ytl="1431.39" xbr="2002.69" ybr="1525.65" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1807.67" ytl="1434.91" xbr="1882.16" ybr="1527.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1624.40" ytl="1433.93" xbr="1699.43" ybr="1524.94" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="682.85" ytl="1760.98" xbr="757.70" ybr="1844.04" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="584.24" ytl="1756.17" xbr="660.68" ybr="1849.34" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="496.30" ytl="1765.10" xbr="571.70" ybr="1858.66" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="402.99" ytl="1759.87" xbr="478.14" ybr="1852.19" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1618.70" ytl="136.28" xbr="1706.50" ybr="213.30" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1687.01" ytl="415.27" xbr="1769.43" ybr="497.68" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1203.40" ytl="418.72" xbr="1279.90" ybr="488.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1338.16" ytl="1426.11" xbr="1412.26" ybr="1517.12" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1200.67" ytl="1434.89" xbr="1273.47" ybr="1525.57" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1107.38" ytl="1422.21" xbr="1184.09" ybr="1515.82" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="990.37" ytl="1422.21" xbr="1067.40" ybr="1515.82" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="899.03" ytl="1428.71" xbr="972.82" ybr="1516.80" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="798.90" ytl="1418.30" xbr="885.71" ybr="1519.72" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="496.41" ytl="1433.26" xbr="570.44" ybr="1507.74" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="409.10" ytl="1421.50" xbr="486.02" ybr="1505.20" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="ef8ff443-e09b-405d-a432-3b5bde0a278b.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="2108.50" ytl="1246.77" xbr="2171.49" ybr="1304.20" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2100.30" ytl="1141.48" xbr="2158.23" ybr="1192.27" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1784.52" ytl="699.04" xbr="1838.92" ybr="766.30" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1888.09" ytl="443.58" xbr="1944.16" ybr="510.48" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1977.30" ytl="485.38" xbr="2032.04" ybr="552.34" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2432.10" ytl="380.00" xbr="2489.64" ybr="445.01" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1966.35" ytl="204.37" xbr="2071.66" ybr="299.93" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2071.41" ytl="15.62" xbr="2130.66" ybr="71.67" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="746.62" ytl="819.03" xbr="812.08" ybr="872.07" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="597.70" ytl="1025.60" xbr="716.10" ybr="1126.69" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="462.32" ytl="1078.20" xbr="519.90" ybr="1152.56" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="502.68" ytl="1250.90" xbr="623.20" ybr="1352.38" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="413.37" ytl="1338.63" xbr="510.10" ybr="1458.37" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="313.91" ytl="1408.06" xbr="404.40" ybr="1503.23" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="249.89" ytl="1620.40" xbr="321.00" ybr="1676.90" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="397.10" ytl="1702.80" xbr="501.19" ybr="1812.77" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="505.94" ytl="1664.62" xbr="594.02" ybr="1770.26" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="609.52" ytl="1612.75" xbr="693.06" ybr="1716.76" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1443.59" ytl="2296.10" xbr="1549.68" ybr="2392.90" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1174.30" ytl="2093.00" xbr="1277.70" ybr="2193.90" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1731.12" ytl="1663.82" xbr="1795.46" ybr="1718.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1430.30" ytl="1476.98" xbr="1491.70" ybr="1530.24" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1562.76" ytl="1151.72" xbr="1681.70" ybr="1245.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1868.60" ytl="1184.14" xbr="1932.68" ybr="1241.50" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="f34f05c6-84ce-47d7-ba5c-394d85c86a46.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="2231.19" ytl="2448.31" xbr="2285.80" ybr="2517.22" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1549.43" ytl="2504.64" xbr="1626.46" ybr="2560.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1680.63" ytl="2097.65" xbr="1729.35" ybr="2159.72" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1975.80" ytl="1929.41" xbr="2033.00" ybr="1987.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2181.22" ytl="1705.65" xbr="2234.72" ybr="1767.36" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2246.00" ytl="1575.51" xbr="2290.50" ybr="1618.90" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2298.36" ytl="1428.57" xbr="2354.35" ybr="1490.37" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2356.00" ytl="1286.86" xbr="2411.40" ybr="1349.07" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="970.59" ytl="15.73" xbr="1064.05" ybr="123.23" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="830.24" ytl="305.19" xbr="949.90" ybr="401.22" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="640.20" ytl="1180.47" xbr="756.73" ybr="1280.66" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="590.81" ytl="1298.34" xbr="706.90" ybr="1398.67" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="320.17" ytl="1757.60" xbr="449.17" ybr="1883.26" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="172.27" ytl="1946.10" xbr="238.11" ybr="2004.51" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="213.23" ytl="2125.03" xbr="291.60" ybr="2216.40" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="0.00" ytl="2344.02" xbr="90.74" ybr="2468.72" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1343.30" ytl="1899.90" xbr="1441.24" ybr="1993.30" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1394.36" ytl="1775.61" xbr="1501.26" ybr="1871.76" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1441.90" ytl="1663.90" xbr="1563.00" ybr="1760.30" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1545.50" ytl="1426.70" xbr="1652.50" ybr="1522.70" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1888.20" ytl="1366.30" xbr="1997.40" ybr="1465.20" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1363.49" ytl="1218.50" xbr="1413.40" ybr="1265.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2137.40" ytl="537.60" xbr="2191.80" ybr="595.15" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1513.60" ytl="239.40" xbr="1587.17" ybr="332.99" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="0.00" ytl="1589.40" xbr="21.18" ybr="1639.67" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="f82d64a6-3bfa-4612-bcbd-847a7d89c296.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="1026.28" ytl="2225.47" xbr="1165.14" ybr="2356.13" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="588.19" ytl="2001.55" xbr="727.04" ybr="2135.72" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="248.37" ytl="1559.97" xbr="325.02" ybr="1643.39" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="519.73" ytl="1423.08" xbr="655.88" ybr="1555.86" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1003.85" ytl="1916.59" xbr="1125.20" ybr="2025.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="961.91" ytl="1758.49" xbr="1102.79" ybr="1889.54" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="936.81" ytl="1572.38" xbr="1103.40" ybr="1718.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="922.85" ytl="1382.20" xbr="1064.82" ybr="1515.98" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="868.02" ytl="1200.34" xbr="1026.22" ybr="1332.79" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="723.16" ytl="935.66" xbr="799.54" ybr="1015.62" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="512.11" ytl="789.90" xbr="631.00" ybr="923.77" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1388.50" ytl="440.05" xbr="1456.76" ybr="528.46" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1629.29" ytl="261.60" xbr="1695.99" ybr="340.20" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1716.00" ytl="137.81" xbr="1825.99" ybr="263.40" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1871.32" ytl="76.75" xbr="1936.87" ybr="156.92" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2038.33" ytl="2191.22" xbr="2179.91" ybr="2319.94" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1677.42" ytl="2206.00" xbr="1772.67" ybr="2284.78" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1651.03" ytl="1965.21" xbr="1738.14" ybr="2040.30" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1961.48" ytl="1551.23" xbr="2101.43" ybr="1683.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1558.10" ytl="1673.98" xbr="1719.86" ybr="1850.90" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1534.43" ytl="1501.76" xbr="1671.10" ybr="1633.28" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1504.05" ytl="1299.98" xbr="1664.60" ybr="1443.21" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1504.48" ytl="1114.68" xbr="1642.55" ybr="1245.27" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1553.48" ytl="956.29" xbr="1688.28" ybr="1077.99" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1793.03" ytl="637.74" xbr="1906.77" ybr="757.56" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="fc06c595-7905-46c3-91c0-daf56af0f926.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="1195.95" ytl="1139.28" xbr="1340.27" ybr="1257.07" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1123.90" ytl="1015.36" xbr="1254.56" ybr="1127.18" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2378.98" ytl="1990.40" xbr="2464.50" ybr="2098.40" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1884.42" ytl="1125.65" xbr="1949.50" ybr="1187.15" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1180.74" ytl="173.46" xbr="1288.00" ybr="295.15" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1386.03" ytl="412.10" xbr="1490.70" ybr="535.38" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1114.40" ytl="572.70" xbr="1220.40" ybr="686.80" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="873.41" ytl="537.97" xbr="985.28" ybr="637.14" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="834.70" ytl="713.50" xbr="952.70" ybr="845.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="681.40" ytl="809.00" xbr="792.93" ybr="935.50" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="574.00" ytl="905.60" xbr="658.20" ybr="1014.40" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="433.60" ytl="969.27" xbr="535.41" ybr="1093.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1370.63" ytl="1417.50" xbr="1490.90" ybr="1528.43" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1271.75" ytl="1269.38" xbr="1414.44" ybr="1387.04" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1431.70" ytl="1546.90" xbr="1573.00" ybr="1663.13" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1804.90" ytl="2287.70" xbr="1942.40" ybr="2403.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1683.91" ytl="1964.20" xbr="1795.24" ybr="2074.98" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1598.05" ytl="1809.35" xbr="1706.94" ybr="1918.51" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1506.27" ytl="1674.00" xbr="1648.50" ybr="1792.80" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="fc1ab8ce-e531-46ed-b74b-0374cd58cf2a.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="863.67" ytl="1240.54" xbr="1022.62" ybr="1385.45" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="866.62" ytl="1060.34" xbr="954.14" ybr="1175.48" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1034.87" ytl="1759.48" xbr="1219.27" ybr="1918.65" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="631.25" ytl="1713.24" xbr="816.04" ybr="1882.86" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="746.28" ytl="1617.42" xbr="842.32" ybr="1704.47" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="769.31" ytl="1415.78" xbr="936.68" ybr="1568.55" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="590.48" ytl="1062.60" xbr="679.00" ybr="1143.80" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="503.79" ytl="1186.63" xbr="592.30" ybr="1270.06" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="408.39" ytl="1310.24" xbr="584.19" ybr="1463.02" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="382.24" ytl="1476.32" xbr="476.10" ybr="1560.28" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="323.40" ytl="1624.30" xbr="399.90" ybr="1695.80" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="243.22" ytl="1760.86" xbr="347.50" ybr="1844.83" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="82.35" ytl="2058.10" xbr="258.00" ybr="2211.70" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1953.10" ytl="2270.71" xbr="2057.72" ybr="2357.50" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1696.77" ytl="1800.64" xbr="1793.50" ybr="1891.91" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1571.69" ytl="1538.22" xbr="1688.70" ybr="1668.81" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1395.04" ytl="1466.22" xbr="1530.52" ybr="1594.95" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2273.23" ytl="1306.20" xbr="2356.38" ybr="1393.90" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="0.21" ytl="1763.21" xbr="62.46" ybr="1872.74" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="15.65" ytl="1648.90" xbr="111.50" ybr="1734.50" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="77.94" ytl="1509.75" xbr="188.45" ybr="1593.17" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="155.62" ytl="1368.72" xbr="240.50" ybr="1452.46" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2398.27" ytl="1081.87" xbr="2489.54" ybr="1169.87" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1955.10" ytl="1375.60" xbr="2145.20" ybr="1583.61" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1875.89" ytl="1266.21" xbr="2010.69" ybr="1395.39" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1734.69" ytl="1193.81" xbr="1878.30" ybr="1350.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1555.31" ytl="1125.92" xbr="1671.85" ybr="1268.20" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1537.43" ytl="697.70" xbr="1651.16" ybr="834.84" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1705.64" ytl="768.00" xbr="1789.89" ybr="863.80" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="fc8f9dc5-b6a2-49f3-9bde-1f8ff382ca5f.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="1033.70" ytl="1280.60" xbr="1120.70" ybr="1347.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2271.50" ytl="223.00" xbr="2330.80" ybr="297.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1516.70" ytl="136.70" xbr="1660.60" ybr="260.40" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1902.60" ytl="663.00" xbr="2041.10" ybr="826.45" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1709.57" ytl="668.28" xbr="1886.55" ybr="832.36" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1492.47" ytl="487.21" xbr="1567.28" ybr="570.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1391.67" ytl="529.40" xbr="1467.10" ybr="612.96" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1272.67" ytl="977.40" xbr="1429.40" ybr="1135.52" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1335.08" ytl="1150.90" xbr="1490.70" ybr="1285.13" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1893.45" ytl="2317.50" xbr="1967.20" ybr="2368.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1495.40" ytl="2391.30" xbr="1554.10" ybr="2438.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1472.70" ytl="2257.40" xbr="1552.90" ybr="2310.40" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1468.20" ytl="2054.90" xbr="1547.20" ybr="2107.19" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1643.70" ytl="1678.70" xbr="1732.20" ybr="1784.01" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1394.05" ytl="1332.30" xbr="1498.20" ybr="1418.50" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1831.16" ytl="1896.36" xbr="1996.48" ybr="2026.60" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="2240.40" ytl="1160.80" xbr="2382.16" ybr="1303.10" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="194.64" ytl="2162.79" xbr="322.88" ybr="2264.90" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="608.74" ytl="1815.30" xbr="750.20" ybr="1950.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="233.25" ytl="1737.21" xbr="375.23" ybr="1865.54" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="93.59" ytl="1643.22" xbr="190.42" ybr="1722.45" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="245.46" ytl="1584.01" xbr="367.54" ybr="1688.15" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="209.93" ytl="1311.41" xbr="284.81" ybr="1389.41" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="0.05" ytl="1019.90" xbr="37.90" ybr="1074.97" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="214.50" ytl="1023.45" xbr="318.01" ybr="1110.05" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1283.46" ytl="2358.04" xbr="1342.56" ybr="2402.27" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1251.78" ytl="2220.92" xbr="1332.70" ybr="2274.00" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1230.11" ytl="2154.04" xbr="1311.19" ybr="2208.58" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="1139.72" ytl="1727.00" xbr="1258.80" ybr="1831.99" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="fca12ef2-0f65-48d0-a4aa-6bae562f2236.jpg" width="2560" height="2560">
+    <box label="aircraft" source="manual" occluded="0" xtl="1547.40" ytl="488.76" xbr="1635.11" ybr="584.71" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="810.14" ytl="48.25" xbr="910.25" ybr="132.44" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="638.52" ytl="220.20" xbr="724.65" ybr="328.43" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="536.85" ytl="259.98" xbr="619.41" ybr="363.34" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="355.80" ytl="324.66" xbr="444.54" ybr="437.78" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="255.60" ytl="365.98" xbr="342.97" ybr="477.53" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="152.63" ytl="414.74" xbr="240.39" ybr="508.74" z_order="0">
+    </box>
+    <box label="aircraft" source="manual" occluded="0" xtl="54.83" ytl="460.45" xbr="134.97" ybr="541.94" z_order="0">
+    </box>
+  </image>
+</annotations>
