@@ -17,6 +17,7 @@ project_root/
 - `scripts/xml_annotations_parser.py`: contains a class that crops and saves objects in the folders.
 - `notebooks/small_objects_classification.ipynb`: trains the pretrained models below on our data and saves the best new models.
 - Each `models/..._best.pth` file stores a trained model with the best accuracy.
+- `main.py`: contains major script for training classification models on ships and aircrafts.
 
 ### Models and Parameters:
 
@@ -24,7 +25,7 @@ project_root/
 |------------------|-----------------------|-----------|
 | ResNet18         | 11                    | ~45       |
 | EfficientNet-B0  | 5.3                   | ~20       |
-| RegNet_Y_400MF   | 9.2                   | ~40       |
+| RegNet_Y_400MF   | 9.2                   | ~17       |
 
 This project focuses on detecting small objects like ships and aircraft using deep learning models. The training and evaluation pipeline includes ResNet18, EfficientNet-B0, and RegNet_Y_400MF, with results logged via Weights & Biases (wandb).
 
