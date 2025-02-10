@@ -8,4 +8,6 @@ This repository contains the following folders:
 - **images**: This folder stores all the images featured in the repository.  
 - **lectures**: This folder contains concise lecture notes in `.ipynb` format.  
 
+![ML START](images/ML-START.png)
+
 The repository is distributed under the MIT License.
