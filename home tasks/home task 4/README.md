@@ -38,3 +38,5 @@ This project focuses on detecting small objects like ships and aircraft using de
 - **Training & Evaluation Pipeline**: The `train_and_evaluate` function automates training across multiple epochs, logs results using wandb, and saves the best-performing model.
 
 The script supports three models: ResNet18, EfficientNet-B0, and RegNet_Y_400MF, ensuring a robust approach to small object detection in images.
+
+![W&B](W&B%20metrics%20plots.png)
